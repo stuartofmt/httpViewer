@@ -1,0 +1,13 @@
+{
+    "id": "httpViewer",
+    "name": "httpViewer",
+    "author": "Stuartofmt",
+    "version": "0.0.1",
+    "license": "GPL-2.0-or-later",
+    "homepage": "https://github.com/stuartofmt/usbStream",
+	"sbcRequired": false,
+	"dwcVersion": "3.6.0-beta.4",
+	"sbcOutputRedirected": false,
+    "sbcPermissions": ["commandExecution","networkAccess", "fileSystemAccess","objectModelReadWrite"]
+ }
+ 
